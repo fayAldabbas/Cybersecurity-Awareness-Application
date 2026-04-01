@@ -17,4 +17,7 @@ An educational mobile application designed to teach children cybersecurity conce
 ## Key Learning
 - Cybersecurity awareness design  
 - User experience for children  
-- Educational content development  
+- Educational content development
+
+- ## Presentation
+This project was presented as a poster at EWSN 2025 (International Conference on Embedded Wireless Systems and Networks).
